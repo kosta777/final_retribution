@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1466452618 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\main.c
+	"main.h"
+
+1466399196 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\game.c
+	"game.h"
+
+1466452530 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\game.h
+	"campaign.h"
+	"../defines.h"
+	"../draw.h"
+	"../instances/instances.h"
+	"collisions.h"
+
+1466452498 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\defines.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1466452547 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\menu\menu.h
+	"../defines.h"
+	"../draw.h"
+	"../instances/instances.h"
+	"../game/savingGame.h"
+
+1466458769 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\menu\menu.c
+	"menu.h"
+
+1466407637 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\draw.c
+	"draw.h"
+
+1466452554 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\draw.h
+	"defines.h"
+	"instances/instances.h"
+
+1466452473 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\main.h
+	"defines.h"
+	"instances/instances.h"
+	"game/handlers.h"
+	"game/collisions.h"
+	"game/game.h"
+	"menu/menu.h"
+
+1466452541 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\instances\instances.h
+	"../defines.h"
+	"../game/handlers.h"
+	"../game/campaign.h"
+
+1466452532 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\handlers.h
+	"../defines.h"
+	"game.h"
+	"../instances/instances.h"
+
+1466455602 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\iterationhandlers.c
+	"handlers.h"
+
+1466455255 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\instances\constructors.c
+	"instances.h"
+
+1464132797 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\instances\destruktors.c
+	"instances.h"
+
+1466385253 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\instances\destructors.c
+	"instances.h"
+
+1465464090 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\instances\destructors.c
+	"instances.h"
+
+1465464344 c:\users\kosta\documents\1945-final-retribution\finalretribution\instances\instances.h
+	"../defines.h"
+	"../game/handlers.h"
+	"../game/handlers.h"
+
+1465464384 c:\users\kosta\documents\1945-final-retribution\finalretribution\defines.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1465464090 c:\users\kosta\documents\1945-final-retribution\finalretribution\game\handlers.h
+	"../defines.h"
+	"game.h"
+	"../instances/instances.h"
+
+1465464090 c:\users\kosta\documents\1945-final-retribution\finalretribution\game\game.h
+	"../defines.h"
+	"../draw.h"
+	"../instances/instances.h"
+	"collisions.h"
+
+1465464090 c:\users\kosta\documents\1945-final-retribution\finalretribution\draw.h
+	"defines.h"
+	"instances/instances.h"
+
+1465464090 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\main.c
+	"main.h"
+
+1465464090 c:\users\kosta\documents\1945-final-retribution\finalretribution\main.h
+	"defines.h"
+	"instances/instances.h"
+	"game/handlers.h"
+	"game/collisions.h"
+	"game/game.h"
+	"menu/menu.h"
+
+1465464090 c:\users\kosta\documents\1945-final-retribution\finalretribution\game\collisions.h
+	"../defines.h"
+	"game.h"
+	"../instances/instances.h"
+
+1465464090 c:\users\kosta\documents\1945-final-retribution\finalretribution\menu\menu.h
+	"../defines.h"
+	"../draw.h"
+	"../instances/instances.h"
+
+1465464090 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\menu\menu.c
+	"menu.h"
+
+1465464090 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\draw.c
+	"draw.h"
+
+1465464261 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\game\iterationhandlers.c
+	"handlers.h"
+
+1465464476 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\instances\constructors.c
+	"instances.h"
+
+1465464090 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\game\game.c
+	"game.h"
+
+1465464090 source:c:\users\kosta\documents\1945-final-retribution\finalretribution\game\collisions.c
+	"collisions.h"
+
+1466452526 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\collisions.h
+	"../defines.h"
+	"game.h"
+	"../instances/instances.h"
+
+1466407637 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\collisions.c
+	"collisions.h"
+
+1466249560 source:c:\users\kosta\documents\finalretributionnew\finalretribution\draw.c
+	"draw.h"
+
+1466077166 c:\users\kosta\documents\finalretributionnew\finalretribution\draw.h
+	"defines.h"
+	"instances/instances.h"
+
+1466352088 c:\users\kosta\documents\finalretributionnew\finalretribution\defines.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1466110748 c:\users\kosta\documents\finalretributionnew\finalretribution\instances\instances.h
+	"../defines.h"
+	"../game/handlers.h"
+	"../game/campaign.h"
+
+1466248954 c:\users\kosta\documents\finalretributionnew\finalretribution\game\handlers.h
+	"../defines.h"
+	"game.h"
+	"../instances/instances.h"
+
+1466233955 c:\users\kosta\documents\finalretributionnew\finalretribution\game\game.h
+	"campaign.h"
+	"../defines.h"
+	"../draw.h"
+	"../instances/instances.h"
+	"collisions.h"
+
+1466233955 c:\users\kosta\documents\finalretributionnew\finalretribution\game\campaign.h
+
+1466110732 c:\users\kosta\documents\finalretributionnew\finalretribution\game\collisions.h
+	"../defines.h"
+	"game.h"
+	"../instances/instances.h"
+
+1466233955 source:c:\users\kosta\documents\finalretributionnew\finalretribution\instances\destructors.c
+	"instances.h"
+
+1466233955 source:c:\users\kosta\documents\finalretributionnew\finalretribution\main.c
+	"main.h"
+
+1466077166 c:\users\kosta\documents\finalretributionnew\finalretribution\main.h
+	"defines.h"
+	"instances/instances.h"
+	"game/handlers.h"
+	"game/collisions.h"
+	"game/game.h"
+	"menu/menu.h"
+
+1466352088 c:\users\kosta\documents\finalretributionnew\finalretribution\menu\menu.h
+	"../defines.h"
+	"../draw.h"
+	"../instances/instances.h"
+	"../game/savingGame.h"
+
+1466249314 source:c:\users\kosta\documents\finalretributionnew\finalretribution\game\collisions.c
+	"collisions.h"
+
+1466233955 source:c:\users\kosta\documents\finalretributionnew\finalretribution\game\game.c
+	"game.h"
+
+1466357768 source:c:\users\kosta\documents\finalretributionnew\finalretribution\game\iterationhandlers.c
+	"handlers.h"
+
+1466352088 source:c:\users\kosta\documents\finalretributionnew\finalretribution\instances\constructors.c
+	"instances.h"
+
+1466352088 source:c:\users\kosta\documents\finalretributionnew\finalretribution\menu\menu.c
+	"menu.h"
+
+1466407637 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\campaign.h
+	"../defines.h"
+
+1466391477 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\campaign.c
+	"campaign.h"
+
+1465837030 source:c:\users\kosta\documents\finalretributionnew\finalretribution\game\campaign.c
+	"campaign.h"
+	"../defines.h"
+
+1466164705 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\saveinggame.c
+	"saveingGame.h"
+
+1466163787 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\saveinggame.h
+	"../defines.h"
+	"game.h"
+
+1466352088 source:c:\users\kosta\documents\finalretributionnew\finalretribution\game\savinggame.c
+	"savingGame.h"
+
+1466233955 c:\users\kosta\documents\finalretributionnew\finalretribution\game\savinggame.h
+	"../defines.h"
+	"game.h"
+
+1466392016 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\savinggame.c
+	"savingGame.h"
+
+1466452535 c:\users\nikola\documents\git\1945-final-retribution\finalretribution\game\savinggame.h
+	"../defines.h"
+	"game.h"
+
+1466391276 source:c:\users\nikola\documents\git\1945-final-retribution\finalretribution\resources.rc
+
